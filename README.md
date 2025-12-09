@@ -1,2 +1,2 @@
 # Figures
-Figures from research 
+Figures from the research of Connor Jerzak and team. 
